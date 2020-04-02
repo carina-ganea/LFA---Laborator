@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/carin/Desktop/An1Sem2/LFA/Tema2/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+

@@ -1,0 +1,3 @@
+C:/Users/carin/Desktop/An1Sem2/LFA/Tema2/cmake-build-debug/CMakeFiles/Tema2.dir
+C:/Users/carin/Desktop/An1Sem2/LFA/Tema2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carin/Desktop/An1Sem2/LFA/Tema2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

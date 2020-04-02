@@ -1,0 +1,13 @@
+N = {S, A}
+Σ = {a, b, c}
+S - aS
+S - bA
+A - #
+A - cA
+*
+w = ab
+w = aaaaaaabcccccccc
+w = b
+w = ac
+w = abbc
+

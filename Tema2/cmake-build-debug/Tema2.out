@@ -1,0 +1,16 @@
+N = {S, A}
+Σ = {a, b, c}
+S - aS
+S - bA
+A - #
+A - cA
+*
+w = ab ∈ L(G)
+w = aaaab ∈ L(G)
+w = aaaabc ∈ L(G)
+w = abbbaac ∉ L(G)
+w = bbbaa ∉ L(G)
+w = bbcca ∉ L(G)
+w = bc ∈ L(G)
+w = bca ∉ L(G)
+w =  ∉ L(G)
